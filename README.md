@@ -121,12 +121,6 @@ All assessment answers are processed **entirely in your browser**. No data is se
 
 Contributions, suggestions, and bug reports are welcome. Feel free to open an issue or submit a pull request.
 
-Ideas for future improvements:
-- Additional languages (Mandarin, Tamil)
-- Depression screening (PHQ-9)
-- Saved history of past assessments (local storage)
-- Offline support (PWA)
-
 ---
 
 ## 📄 License
